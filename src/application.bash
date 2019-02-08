@@ -1,4 +1,4 @@
-### Application.bash - 2019 - ROUSSEAU ###
+### Application.bash - 2019 - ROUSSEAU LANCIEN CORENTIN ###
 echo "Copyright IIA - 2019"
 version = "2"
 echo build_hour = "11H00"
