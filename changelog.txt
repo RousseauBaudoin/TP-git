@@ -1,0 +1,23 @@
+commit 2b51eda500e5350458593357dfdd84f3c69e1b66
+Author: Baudoin Rousseau <Baudoin.rousseau@gmail.com>
+Date:   Fri Feb 8 10:49:33 2019 +0100
+
+    display copyright
+
+commit f22024083bbf23723f970e075a0ab1f21b265260
+Author: Baudoin Rousseau <Baudoin.rousseau@gmail.com>
+Date:   Fri Feb 8 10:47:17 2019 +0100
+
+    Add file header
+
+commit f6c2d71d064f0132f22de5b7a641e2ce4b6b320a
+Author: Baudoin Rousseau <Baudoin.rousseau@gmail.com>
+Date:   Fri Feb 8 10:46:06 2019 +0100
+
+    Add built time
+
+commit 0c6bc319453a1d2b76e24bfd4b322c90e29e76a3
+Author: Baudoin Rousseau <Baudoin.rousseau@gmail.com>
+Date:   Fri Feb 8 10:45:19 2019 +0100
+
+    Initial commit
